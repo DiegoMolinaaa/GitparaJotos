@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package gitparajotos;
-
+import java.util.Random;
 /**
  *
  * @author diego
@@ -15,7 +15,9 @@ public class GITparaJotos {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        Random r =  new Random();
         // TODO code application logic here
+        int wordle =1;
     }
     
 }
